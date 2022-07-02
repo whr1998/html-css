@@ -4,4 +4,4 @@ git init study
 jjjjj
 浪鸟
 shadiao
-Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
